@@ -1,5 +1,5 @@
-- 👋 Hi, I’m nona
-- 👀 I’m interested in frontend , Design , art .
+- 👋 Hi, I’m astro
+- 👀 I’m interested in front-end , Design , art .
 - 🌱 I’m currently learning next.js .
 - 📫 How to reach me telegram id : @nona_code
 
