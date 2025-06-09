@@ -1,7 +1,7 @@
 - 👋 Hi, I’m astro
 - 👀 I’m interested in front-end , Design , art .
 - 🌱 I’m currently learning next.js .
-- 📫 How to reach me telegram id : @Astro_code
+- 📫 How to reach me telegram id : @Astro_nona
 
  i'm a young person who loves to code ...
 
